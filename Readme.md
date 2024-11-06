@@ -1,8 +1,10 @@
 # FDA  Submission
 
-**Your Name:** Aarya Patel
+## Author
 
-**Name of your Device:** PneumoniaNet
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
 
 ## Algorithm Description 
 
